@@ -1,4 +1,4 @@
-# cis6930sp24 Rahul Talari
+# Auto_Incident_Extractor
 This Python script is designed to download, parse, and store incident report data from PDF files available through specified URLs. It leverages various Python libraries to handle PDF files, web requests, and database operations.
 
 ## Features:-
